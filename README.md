@@ -16,4 +16,4 @@
 
 ### Please Note:
 _*This is a guideline, you may have to adapt it how you feel.*_
-_*`The Woodcutter`* will not be responsible for ciphered databases with no known keys, or AI bots overwhelming your entire LAN using a reflection DDoS attack from non-existent hosts, or your RAM soldering itself to your motherboard and your PSU exploding.  Be strong out there!  Try XMPP it's super cool!!_
+_*`The Woodcutter`* will not be responsible for ciphered databases with no known keys, or AI bots overwhelming your entire LAN using a reflection DDoS attack from non-existent hosts, or your RAM fusing itself to your motherboard and your PSU exploding.  Be strong out there!  Try XMPP it's super cool!!_
